@@ -1,6 +1,7 @@
 # eight_puzzle
 
-### To run use command python3 eightpuzzle.py
+## To run
+### python3 eightpuzzle.py
 
 ## About
 This is a command line interface of the game eight puzzle. The program lets the user input the configurations of the game tiles or choose from a list of default configurations. 
